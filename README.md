@@ -1,2 +1,2 @@
 # Flash-Chat
-Messaging App
+An internet based messaging app similar to WhatsApp

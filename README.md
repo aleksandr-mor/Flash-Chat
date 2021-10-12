@@ -14,6 +14,6 @@
 * How to create custom views using .xib files to modify native design components.
 * How to embed View Controllers in a Navigation Controller and understand the navigation stack.
 * How to create a constants file and use static properties to store Strings and other constants.
-* Learned about Swift loops and create animations using loops.
+* Learned about Swift loops and how to create animations using loops.
 * Learned about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.

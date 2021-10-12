@@ -1,0 +1,42 @@
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "F21-w0-z4z"; */
+"F21-w0-z4z.placeholder" = "Email";
+
+/* Class = "UITextField"; text = "1@2.com"; ObjectID = "F21-w0-z4z"; */
+"F21-w0-z4z.text" = "1@2.com";
+
+/* Class = "UINavigationItem"; title = "⚡️FlashChat"; ObjectID = "Q5u-eL-Bgp"; */
+"Q5u-eL-Bgp.title" = "⚡️FlashChat";
+
+/* Class = "UITextField"; placeholder = "Write a message..."; ObjectID = "UWj-GQ-Vph"; */
+"UWj-GQ-Vph.placeholder" = "Write a message...";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "abR-gz-opL"; */
+"abR-gz-opL.placeholder" = "Password";
+
+/* Class = "UITextField"; text = "123456"; ObjectID = "abR-gz-opL"; */
+"abR-gz-opL.text" = "123456";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "dWe-nW-2HB"; */
+"dWe-nW-2HB.normalTitle" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "e3X-Pg-CWg"; */
+"e3X-Pg-CWg.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "h2x-tz-C9Y"; */
+"h2x-tz-C9Y.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hLb-P9-NkF"; */
+"hLb-P9-NkF.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "u72-XV-6FN"; */
+"u72-XV-6FN.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "xd2-nu-tMA"; */
+"xd2-nu-tMA.normalTitle" = "Log In";
+
+/* Class = "UIBarButtonItem"; title = "Log Out"; ObjectID = "xle-2l-2aW"; */
+"xle-2l-2aW.title" = "Log Out";
+
+/* Class = "UILabel"; text = "⚡️FlashChat"; ObjectID = "y7D-jv-BlJ"; */
+"y7D-jv-BlJ.text" = "⚡️FlashChat";
